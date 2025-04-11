@@ -1,0 +1,4 @@
+name: vr-fakelobby
+version: '1.0'
+main: me.vasir.FakeLobby
+api-version: '1.21'
